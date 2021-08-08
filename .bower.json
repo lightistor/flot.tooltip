@@ -1,0 +1,17 @@
+{
+  "name": "flot.tooltip",
+  "license": "MIT",
+  "main": "js/jquery.flot.tooltip.js",
+  "ignore": [
+    ".gitignore",
+    "Gruntfile.js",
+    "README.md",
+    "package.json",
+    "examples"
+  ],
+  "homepage": "https://github.com/lightistor/flot.tooltip",
+  "_release": "vjvma-0.9.27",
+  "_source": "https://github.com/lightistor/flot.tooltip.git",
+  "_target": "vjvma-0.9.27",
+  "_originalSource": "vjvma/flot.tooltip"
+}
